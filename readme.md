@@ -1,7 +1,8 @@
 ## Name 
-	Bello Oluwatomisin Oreoluwa 
+	Bello Oluwatomisin Oreoluwa (@tbello)
 ## Accountablity Partner
-
+	James Chukwu (@james chukwu)
 ## Group Name
+	Devops Engineering
 
 
